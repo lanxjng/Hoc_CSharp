@@ -1,0 +1,10 @@
+E:\hoc Csharp\QLKS_Ktra02\QLKS_Ktra02\obj\x86\Debug\QLKS_Ktra02.csprojResolveAssemblyReference.cache
+E:\hoc Csharp\QLKS_Ktra02\QLKS_Ktra02\obj\x86\Debug\QLKS_Ktra02.Form1.resources
+E:\hoc Csharp\QLKS_Ktra02\QLKS_Ktra02\obj\x86\Debug\QLKS_Ktra02.Properties.Resources.resources
+E:\hoc Csharp\QLKS_Ktra02\QLKS_Ktra02\obj\x86\Debug\QLKS_Ktra02.csproj.GenerateResource.Cache
+E:\hoc Csharp\QLKS_Ktra02\QLKS_Ktra02\obj\x86\Debug\RdlCompile.cache
+E:\hoc Csharp\QLKS_Ktra02\QLKS_Ktra02\obj\x86\Debug\RdlCompile.compiled
+E:\hoc Csharp\QLKS_Ktra02\QLKS_Ktra02\bin\Debug\QLKS_Ktra02.exe
+E:\hoc Csharp\QLKS_Ktra02\QLKS_Ktra02\bin\Debug\QLKS_Ktra02.pdb
+E:\hoc Csharp\QLKS_Ktra02\QLKS_Ktra02\obj\x86\Debug\QLKS_Ktra02.exe
+E:\hoc Csharp\QLKS_Ktra02\QLKS_Ktra02\obj\x86\Debug\QLKS_Ktra02.pdb

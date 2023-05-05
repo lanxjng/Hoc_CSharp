@@ -1,0 +1,10 @@
+E:\hoc Csharp\QLSV_LkSql_Report\QLSV_LkSql_Report\bin\Debug\QLSV_LkSql_Report.exe
+E:\hoc Csharp\QLSV_LkSql_Report\QLSV_LkSql_Report\bin\Debug\QLSV_LkSql_Report.pdb
+E:\hoc Csharp\QLSV_LkSql_Report\QLSV_LkSql_Report\obj\x86\Debug\QLSV_LkSql_Report.csprojResolveAssemblyReference.cache
+E:\hoc Csharp\QLSV_LkSql_Report\QLSV_LkSql_Report\obj\x86\Debug\QLSV_LkSql_Report.Form1.resources
+E:\hoc Csharp\QLSV_LkSql_Report\QLSV_LkSql_Report\obj\x86\Debug\QLSV_LkSql_Report.Properties.Resources.resources
+E:\hoc Csharp\QLSV_LkSql_Report\QLSV_LkSql_Report\obj\x86\Debug\QLSV_LkSql_Report.csproj.GenerateResource.Cache
+E:\hoc Csharp\QLSV_LkSql_Report\QLSV_LkSql_Report\obj\x86\Debug\RdlCompile.cache
+E:\hoc Csharp\QLSV_LkSql_Report\QLSV_LkSql_Report\obj\x86\Debug\RdlCompile.compiled
+E:\hoc Csharp\QLSV_LkSql_Report\QLSV_LkSql_Report\obj\x86\Debug\QLSV_LkSql_Report.exe
+E:\hoc Csharp\QLSV_LkSql_Report\QLSV_LkSql_Report\obj\x86\Debug\QLSV_LkSql_Report.pdb

@@ -1,0 +1,14 @@
+E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\QLBH_LkSql_Report.Form1.resources
+E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\QLBH_LkSql_Report.Form_HD.resources
+E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\QLBH_LkSql_Report.Form_HH.resources
+E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\QLBH_LkSql_Report.Form_KH.resources
+E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\QLBH_LkSql_Report.Properties.Resources.resources
+E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\QLBH_LkSql_Report.csproj.GenerateResource.Cache
+E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\bin\Debug\QLBH_LkSql_Report.exe
+E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\bin\Debug\QLBH_LkSql_Report.pdb
+E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\QLBH_LkSql_Report.exe
+E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\QLBH_LkSql_Report.pdb
+E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\QLBH_LkSql_Report.csprojResolveAssemblyReference.cache
+E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\QLBH_LkSql_Report.Bao_Cao_Hoa_Don.resources
+E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\RdlCompile.cache
+E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\RdlCompile.compiled

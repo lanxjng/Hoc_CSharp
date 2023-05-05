@@ -1,0 +1,8 @@
+E:\hoc Csharp\ManLanKtra01\ManLanKtra01\bin\Debug\ManLanKtra01.exe
+E:\hoc Csharp\ManLanKtra01\ManLanKtra01\bin\Debug\ManLanKtra01.pdb
+E:\hoc Csharp\ManLanKtra01\ManLanKtra01\obj\x86\Debug\ManLanKtra01.Form1.resources
+E:\hoc Csharp\ManLanKtra01\ManLanKtra01\obj\x86\Debug\ManLanKtra01.Properties.Resources.resources
+E:\hoc Csharp\ManLanKtra01\ManLanKtra01\obj\x86\Debug\ManLanKtra01.csproj.GenerateResource.Cache
+E:\hoc Csharp\ManLanKtra01\ManLanKtra01\obj\x86\Debug\ManLanKtra01.exe
+E:\hoc Csharp\ManLanKtra01\ManLanKtra01\obj\x86\Debug\ManLanKtra01.pdb
+E:\hoc Csharp\ManLanKtra01\ManLanKtra01\obj\x86\Debug\ManLanKtra01.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+E:\hoc Csharp\Ktra01\Ktra01\bin\Debug\Ktra01.exe
+E:\hoc Csharp\Ktra01\Ktra01\bin\Debug\Ktra01.pdb
+E:\hoc Csharp\Ktra01\Ktra01\obj\x86\Debug\Ktra01.Form1.resources
+E:\hoc Csharp\Ktra01\Ktra01\obj\x86\Debug\Ktra01.Properties.Resources.resources
+E:\hoc Csharp\Ktra01\Ktra01\obj\x86\Debug\Ktra01.csproj.GenerateResource.Cache
+E:\hoc Csharp\Ktra01\Ktra01\obj\x86\Debug\Ktra01.exe
+E:\hoc Csharp\Ktra01\Ktra01\obj\x86\Debug\Ktra01.pdb
+E:\hoc Csharp\Ktra01\Ktra01\obj\x86\Debug\Ktra01.csprojResolveAssemblyReference.cache
