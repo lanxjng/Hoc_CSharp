@@ -33,7 +33,7 @@ namespace QLBH_LkSql_Report
                     dt = ob.Load(sql);
                     // Dat report lam nguon cho reportviewer
                     reportViewer1.ProcessingMode = Microsoft.Reporting.WinForms.ProcessingMode.Local;
-                    reportViewer1.LocalReport.ReportPath = @"E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\BaoCao.rdlc";
+                    reportViewer1.LocalReport.ReportPath = @"E:\hoc Csharp\C_Sharp_Cua_Lan\QLBH_LkSql_Report\QLBH_LkSql_Report\BaoCao.rdlc";
                     //Dat dataset lam nguon cho report
                     ReportDataSource rps = new ReportDataSource();
                     //Go ten dataset

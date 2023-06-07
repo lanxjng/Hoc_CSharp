@@ -30,10 +30,10 @@
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.nhToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.báoCáoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.bảngKháchHàngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.bảngHàngHóaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.bảngHóaĐơnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.báoCáoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.báoCáoHóaĐơnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -59,14 +59,6 @@
             this.nhToolStripMenuItem.Size = new System.Drawing.Size(112, 24);
             this.nhToolStripMenuItem.Text = "Nhập Dữ Liệu";
             // 
-            // báoCáoToolStripMenuItem
-            // 
-            this.báoCáoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.báoCáoHóaĐơnToolStripMenuItem});
-            this.báoCáoToolStripMenuItem.Name = "báoCáoToolStripMenuItem";
-            this.báoCáoToolStripMenuItem.Size = new System.Drawing.Size(77, 24);
-            this.báoCáoToolStripMenuItem.Text = "Báo Cáo";
-            // 
             // bảngKháchHàngToolStripMenuItem
             // 
             this.bảngKháchHàngToolStripMenuItem.Name = "bảngKháchHàngToolStripMenuItem";
@@ -87,6 +79,15 @@
             this.bảngHóaĐơnToolStripMenuItem.Size = new System.Drawing.Size(196, 24);
             this.bảngHóaĐơnToolStripMenuItem.Text = "Bảng Hóa Đơn";
             this.bảngHóaĐơnToolStripMenuItem.Click += new System.EventHandler(this.bảngHóaĐơnToolStripMenuItem_Click);
+            // 
+            // báoCáoToolStripMenuItem
+            // 
+            this.báoCáoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.báoCáoHóaĐơnToolStripMenuItem});
+            this.báoCáoToolStripMenuItem.Name = "báoCáoToolStripMenuItem";
+            this.báoCáoToolStripMenuItem.Size = new System.Drawing.Size(77, 24);
+            this.báoCáoToolStripMenuItem.Text = "Báo Cáo";
+            this.báoCáoToolStripMenuItem.Click += new System.EventHandler(this.báoCáoToolStripMenuItem_Click);
             // 
             // báoCáoHóaĐơnToolStripMenuItem
             // 

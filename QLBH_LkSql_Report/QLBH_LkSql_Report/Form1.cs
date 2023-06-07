@@ -44,5 +44,10 @@ namespace QLBH_LkSql_Report
             Bao_Cao_Hoa_Don f = new Bao_Cao_Hoa_Don();
             f.Show();
         }
+
+        private void báoCáoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

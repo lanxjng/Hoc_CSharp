@@ -8,3 +8,4 @@ E:\hoc Csharp\QLKS_Ktra02\QLKS_Ktra02\bin\Debug\QLKS_Ktra02.exe
 E:\hoc Csharp\QLKS_Ktra02\QLKS_Ktra02\bin\Debug\QLKS_Ktra02.pdb
 E:\hoc Csharp\QLKS_Ktra02\QLKS_Ktra02\obj\x86\Debug\QLKS_Ktra02.exe
 E:\hoc Csharp\QLKS_Ktra02\QLKS_Ktra02\obj\x86\Debug\QLKS_Ktra02.pdb
+E:\hoc Csharp\C_Sharp_Cua_Lan\QLKS_Ktra02\QLKS_Ktra02\obj\x86\Debug\QLKS_Ktra02.exe

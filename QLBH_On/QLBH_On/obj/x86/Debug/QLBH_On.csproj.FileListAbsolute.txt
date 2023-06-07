@@ -8,3 +8,13 @@ E:\hoc Csharp\QLBH_On\QLBH_On\obj\x86\Debug\RdlCompile.cache
 E:\hoc Csharp\QLBH_On\QLBH_On\obj\x86\Debug\RdlCompile.compiled
 E:\hoc Csharp\QLBH_On\QLBH_On\obj\x86\Debug\QLBH_On.exe
 E:\hoc Csharp\QLBH_On\QLBH_On\obj\x86\Debug\QLBH_On.pdb
+E:\hoc Csharp\C_Sharp_Cua_Lan\QLBH_On\QLBH_On\obj\x86\Debug\QLBH_On.exe
+E:\hoc Csharp\C_Sharp_Cua_Lan\QLBH_On\QLBH_On\obj\x86\Debug\QLBH_On.pdb
+E:\hoc Csharp\C_Sharp_Cua_Lan\QLBH_On\QLBH_On\bin\Debug\QLBH_On.exe
+E:\hoc Csharp\C_Sharp_Cua_Lan\QLBH_On\QLBH_On\bin\Debug\QLBH_On.pdb
+E:\hoc Csharp\C_Sharp_Cua_Lan\QLBH_On\QLBH_On\obj\x86\Debug\QLBH_On.csprojResolveAssemblyReference.cache
+E:\hoc Csharp\C_Sharp_Cua_Lan\QLBH_On\QLBH_On\obj\x86\Debug\QLBH_On.Form1.resources
+E:\hoc Csharp\C_Sharp_Cua_Lan\QLBH_On\QLBH_On\obj\x86\Debug\QLBH_On.Properties.Resources.resources
+E:\hoc Csharp\C_Sharp_Cua_Lan\QLBH_On\QLBH_On\obj\x86\Debug\QLBH_On.csproj.GenerateResource.Cache
+E:\hoc Csharp\C_Sharp_Cua_Lan\QLBH_On\QLBH_On\obj\x86\Debug\RdlCompile.cache
+E:\hoc Csharp\C_Sharp_Cua_Lan\QLBH_On\QLBH_On\obj\x86\Debug\RdlCompile.compiled

@@ -1,0 +1,14 @@
+E:\hoc Csharp\QlyDV\QlyDV\obj\x86\Debug\QlyDV.csprojResolveAssemblyReference.cache
+E:\hoc Csharp\QlyDV\QlyDV\obj\x86\Debug\QlyDV.BaoCao.resources
+E:\hoc Csharp\QlyDV\QlyDV\obj\x86\Debug\QlyDV.ChungTu.resources
+E:\hoc Csharp\QlyDV\QlyDV\obj\x86\Debug\QlyDV.DichVu.resources
+E:\hoc Csharp\QlyDV\QlyDV\obj\x86\Debug\QlyDV.Form1.resources
+E:\hoc Csharp\QlyDV\QlyDV\obj\x86\Debug\QlyDV.KhachHang.resources
+E:\hoc Csharp\QlyDV\QlyDV\obj\x86\Debug\QlyDV.Properties.Resources.resources
+E:\hoc Csharp\QlyDV\QlyDV\obj\x86\Debug\QlyDV.csproj.GenerateResource.Cache
+E:\hoc Csharp\QlyDV\QlyDV\obj\x86\Debug\RdlCompile.cache
+E:\hoc Csharp\QlyDV\QlyDV\obj\x86\Debug\RdlCompile.compiled
+E:\hoc Csharp\QlyDV\QlyDV\bin\Debug\QlyDV.exe
+E:\hoc Csharp\QlyDV\QlyDV\bin\Debug\QlyDV.pdb
+E:\hoc Csharp\QlyDV\QlyDV\obj\x86\Debug\QlyDV.exe
+E:\hoc Csharp\QlyDV\QlyDV\obj\x86\Debug\QlyDV.pdb

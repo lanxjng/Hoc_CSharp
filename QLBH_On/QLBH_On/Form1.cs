@@ -87,7 +87,7 @@ namespace QLBH_On
             dt = ob.Load(sql);
             // Dat report lam nguon cho reportviewer
             reportViewer1.ProcessingMode = Microsoft.Reporting.WinForms.ProcessingMode.Local;
-            reportViewer1.LocalReport.ReportPath = @"E:\hoc Csharp\QLBH_On\QLBH_On\InHoaDon.rdlc";
+            reportViewer1.LocalReport.ReportPath = @"E:\hoc Csharp\C_Sharp_Cua_Lan\QLBH_On\QLBH_On\InHoaDon.rdlc";
             //Dat dataset lam nguon cho report
             ReportDataSource rps = new ReportDataSource();
             //Go ten dataset

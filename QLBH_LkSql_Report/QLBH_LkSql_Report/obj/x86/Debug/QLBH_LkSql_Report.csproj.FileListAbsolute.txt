@@ -12,3 +12,5 @@ E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\QLBH_LkSql_Repor
 E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\QLBH_LkSql_Report.Bao_Cao_Hoa_Don.resources
 E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\RdlCompile.cache
 E:\hoc Csharp\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\RdlCompile.compiled
+E:\hoc Csharp\C_Sharp_Cua_Lan\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\QLBH_LkSql_Report.exe
+E:\hoc Csharp\C_Sharp_Cua_Lan\QLBH_LkSql_Report\QLBH_LkSql_Report\obj\x86\Debug\QLBH_LkSql_Report.pdb
